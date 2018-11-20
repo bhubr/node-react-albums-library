@@ -1,0 +1,1 @@
+ALTER TABLE album ADD COLUMN image VARCHAR(100) AFTER artist;

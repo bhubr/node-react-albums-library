@@ -1,0 +1,7 @@
+CREATE TABLE album(
+  id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  title VARCHAR(100),
+  year INTEGER,
+  artist VARCHAR(100),
+  image VARCHAR(100)
+);
